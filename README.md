@@ -7,7 +7,7 @@
 
 ## 🔗 Links
 - GitHub: [@cypress-exe](https://github.com/cypress-exe)
-- Discord: cypress.exe#1234
+- Discord: cypress.exe
 
 <!---
 Cypress4382/Cypress4382 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
